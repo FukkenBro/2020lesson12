@@ -1,7 +1,8 @@
-import java.util.Arrays;
+
 
 public class Task2 {
     public static void main(String[] args) {
+
 //        List of K sorted arrays:
 //          [1, 2, 5]
 //          [2, 3]
